@@ -224,5 +224,14 @@ int main()
 
     string s9 = ".....................";
     assert(StrongPassword(s9) == 7);
+
+    string s10 = "abc(((((((";
+    assert(StrongPassword(s10) == 2);
+
+    string s11 = "daniel";
+    assert(StrongPassword(s11) == 2);
+
+    string s12 = "AA00aabbccc";
+    assert(StrongPassword(s12) == 1);
     return 0;
 }

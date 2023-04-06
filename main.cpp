@@ -110,7 +110,7 @@ int StrongPassword(string s)
                 ///nrOfChanges se modif; FACEM o op de adaugare
                 if (lenS < 6)
                 {
-                    neededC[1] = 0;///inlocuim cu o litera mica
+                    neededC[1] = 0;///inseram pe pozitia i + 2 o litera mica
                     lenS++;
                     opNedded++;
                     nrOfChanges--;
@@ -128,7 +128,7 @@ int StrongPassword(string s)
                 {
                     if (lenS < 6)
                     {
-                        neededC[2] = 0;///inlocuim cu litera MARE
+                        neededC[2] = 0;///inseram pe pozitia i + 2 cu litera MARE
                         lenS++;
                         opNedded++;
                         nrOfChanges--;

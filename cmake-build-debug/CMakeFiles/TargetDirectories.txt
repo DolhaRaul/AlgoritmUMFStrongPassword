@@ -1,0 +1,3 @@
+C:/Users/rauld/OneDrive/Desktop/AlgoritmUMT/cmake-build-debug/CMakeFiles/AlgoritmUMT.dir
+C:/Users/rauld/OneDrive/Desktop/AlgoritmUMT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rauld/OneDrive/Desktop/AlgoritmUMT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
